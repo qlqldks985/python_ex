@@ -1,0 +1,18 @@
+{
+    "gildong": [
+        {
+            "tTxt": "공부하자",
+            "tExpDate": "2026-11-24 12:00:00",
+            "tRegDate": "2026-06-02 13:51:17",
+            "tModDate": "2026-06-02 13:51:17",
+            "tComplete": false
+        },
+        {
+            "tTxt": "20260602",
+            "tExpDate": "",
+            "tRegDate": "2026-06-02 13:31:07",
+            "tModDate": "2026-06-02 13:31:07",
+            "tComplete": true
+        }
+    ]
+}
